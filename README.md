@@ -22,7 +22,7 @@
 
 Основной вывод состоит в том, что цена квартиры существенно зависит от ее площади. Это подтверждает важность учета площади при определении стоимости аренды квартиры в Москве.
 <p align="center">
-  <img src="graph.png" alt="praph.png" width="800" height="400">
+  <img src="graph.png" alt="praph.png" width="800" height="500">
 </p>
 
 <p align="center">
