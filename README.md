@@ -1,5 +1,5 @@
-<div style="display: flex; justify-content: center;">
-    <img src="logo.jpeg" alt="logo.jpeg" width="400" height="400">
+<div style="text-align: center;">
+  <img src="logo.jpeg" alt="logo.jpeg" width="400" height="400">
 </div>
 
 # Введение
