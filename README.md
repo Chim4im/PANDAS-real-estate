@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.jpeg" alt="logo.jpeg">
+  <img src="logo.jpeg" alt="logo.jpeg" width="400" height="400">
 </p>
 
 # Введение
